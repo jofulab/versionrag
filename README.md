@@ -1,4 +1,9 @@
-# VersionRAG
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/versionrag-logo-dark.svg">
+    <img src="docs/assets/versionrag-logo.svg" alt="VersionRAG" width="520">
+  </picture>
+</p>
 
 Version-aware retrieval-augmented generation for evolving documents.
 
