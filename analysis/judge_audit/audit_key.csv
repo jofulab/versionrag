@@ -1,0 +1,397 @@
+audit_id,cell,system,generator_label,category,judge,nli_correct
+A0003,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Version Listing & Inquiry,1,0
+A0004,A_judge1_nli0,VersionRAG,mistral-small-2603,Change Retrieval (i),1,0
+A0005,A_judge1_nli0,Naive RAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+A0007,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0008,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Content Retrieval,1,0
+A0009,A_judge1_nli0,VersionRAG,qwen3-32b,Change Retrieval (i),1,0
+A0010,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Version Listing & Inquiry,1,0
+A0011,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Change Retrieval (i),1,0
+A0012,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0014,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Change Retrieval (i),1,0
+A0016,B_judge0_nli1,Naive RAG,qwen3-32b,Change Retrieval (i),0,1
+A0017,B_judge0_nli1,VersionRAG,qwen3-32b,Version-Specific Content Retrieval,0,1
+A0019,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Version Listing & Inquiry,1,0
+A0022,B_judge0_nli1,GraphRAG,mistral-small-2603,Content Retrieval Complex,0,1
+A0023,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Content Retrieval,1,0
+A0025,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Version Listing & Inquiry,1,0
+A0026,B_judge0_nli1,Temporal-GraphRAG,qwen3-32b,Version-Specific Content Retrieval,0,1
+A0027,A_judge1_nli0,GraphRAG,gpt-5.4-nano,Content Retrieval,1,0
+A0028,B_judge0_nli1,Temporal-GraphRAG,mistral-small-2603,Change Retrieval (i),0,1
+A0029,A_judge1_nli0,VersionRAG,mistral-small-2603,Change Retrieval (e),1,0
+A0030,B_judge0_nli1,Naive RAG,qwen3-32b,Change Retrieval (i),0,1
+A0032,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+A0033,B_judge0_nli1,GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,0,1
+A0034,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Content Retrieval Complex,1,0
+A0035,A_judge1_nli0,Naive RAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0036,A_judge1_nli0,Naive RAG,mistral-small-2603,Content Retrieval,1,0
+A0037,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0038,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0039,B_judge0_nli1,Temporal-GraphRAG,gpt-5.4-mini,Change Retrieval (i),0,1
+A0040,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Content Retrieval,1,0
+A0041,A_judge1_nli0,Naive RAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0042,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Content Retrieval,1,0
+A0043,B_judge0_nli1,GraphRAG,gpt-5.4-nano,Change Retrieval (e),0,1
+A0044,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Change Retrieval (e),1,0
+A0045,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Change Retrieval (e),1,0
+A0047,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Change Retrieval (e),1,0
+A0049,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Change Retrieval (e),1,0
+A0052,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (i),1,0
+A0053,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0054,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (e),1,0
+A0055,A_judge1_nli0,VersionRAG,qwen3-32b,Change Retrieval (i),1,0
+A0057,B_judge0_nli1,Naive RAG,mistral-small-2603,Content Retrieval,0,1
+A0058,B_judge0_nli1,Temporal-GraphRAG,qwen3-32b,Version-Specific Content Retrieval,0,1
+A0061,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version Listing & Inquiry,1,0
+A0062,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Change Retrieval (i),1,0
+A0064,B_judge0_nli1,Temporal-GraphRAG,mistral-small-2603,Change Retrieval (e),0,1
+A0065,A_judge1_nli0,VersionRAG,qwen3-32b,Change Retrieval (i),1,0
+A0066,A_judge1_nli0,VersionRAG,mistral-small-2603,Change Retrieval (e),1,0
+A0068,B_judge0_nli1,Naive RAG,qwen3-32b,Content Retrieval Complex,0,1
+A0071,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Version Listing & Inquiry,1,0
+A0072,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0073,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Content Retrieval,1,0
+A0074,B_judge0_nli1,GraphRAG,gpt-5.4-nano,Content Retrieval,0,1
+A0075,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+A0076,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0077,B_judge0_nli1,Naive RAG,mistral-small-2603,Content Retrieval Complex,0,1
+A0078,B_judge0_nli1,VersionRAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0080,B_judge0_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval Complex,0,1
+A0081,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (e),1,0
+A0082,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0084,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval Complex,1,0
+A0086,A_judge1_nli0,VersionRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0087,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-nano,Content Retrieval Complex,1,0
+A0089,B_judge0_nli1,Temporal-GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0090,B_judge0_nli1,Temporal-GraphRAG,qwen3-32b,Change Retrieval (i),0,1
+A0091,B_judge0_nli1,Metadata-Filtered RAG,qwen3-32b,Content Retrieval Complex,0,1
+A0093,B_judge0_nli1,Naive RAG,qwen3-32b,Content Retrieval Complex,0,1
+A0095,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Content Retrieval Complex,1,0
+A0098,A_judge1_nli0,VersionRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0099,A_judge1_nli0,VersionRAG,qwen3-32b,Change Retrieval (e),1,0
+A0102,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Content Retrieval Complex,1,0
+A0103,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0104,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Version Listing & Inquiry,1,0
+A0105,B_judge0_nli1,VersionRAG,qwen3-32b,Change Retrieval (i),0,1
+A0106,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (i),1,0
+A0107,A_judge1_nli0,Naive RAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0108,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Change Retrieval (i),1,0
+A0110,B_judge0_nli1,GraphRAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0111,B_judge0_nli1,Naive RAG,qwen3-32b,Content Retrieval Complex,0,1
+A0113,B_judge0_nli1,GraphRAG,mistral-small-2603,Version Listing & Inquiry,0,1
+A0114,A_judge1_nli0,VersionRAG,mistral-small-2603,Content Retrieval,1,0
+A0117,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Content Retrieval Complex,1,0
+A0118,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Content Retrieval,1,0
+A0119,A_judge1_nli0,VersionRAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+A0120,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0121,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Content Retrieval,1,0
+A0122,A_judge1_nli0,VersionRAG,qwen3-32b,Change Retrieval (i),1,0
+A0123,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (i),1,0
+A0125,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Change Retrieval (i),1,0
+A0126,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+A0129,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0130,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Content Retrieval Complex,1,0
+A0131,B_judge0_nli1,Naive RAG,mistral-small-2603,Content Retrieval Complex,0,1
+A0132,B_judge0_nli1,Temporal-GraphRAG,qwen3-32b,Change Retrieval (i),0,1
+A0134,B_judge0_nli1,Metadata-Filtered RAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0135,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Change Retrieval (i),1,0
+A0136,B_judge0_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval Complex,0,1
+A0137,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0138,B_judge0_nli1,Temporal-GraphRAG,mistral-small-2603,Change Retrieval (i),0,1
+A0140,A_judge1_nli0,VersionRAG,qwen3-32b,Content Retrieval,1,0
+A0141,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Change Retrieval (i),1,0
+A0142,B_judge0_nli1,GraphRAG,mistral-small-2603,Content Retrieval Complex,0,1
+A0143,A_judge1_nli0,VersionRAG,qwen3-32b,Content Retrieval,1,0
+A0144,B_judge0_nli1,GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,0,1
+A0145,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0146,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Change Retrieval (i),1,0
+A0147,A_judge1_nli0,VersionRAG,mistral-small-2603,Content Retrieval,1,0
+A0148,A_judge1_nli0,Naive RAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0149,A_judge1_nli0,GraphRAG,gpt-5.4-nano,Content Retrieval,1,0
+A0150,B_judge0_nli1,GraphRAG,mistral-small-2603,Content Retrieval Complex,0,1
+A0151,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Change Retrieval (e),1,0
+A0152,B_judge0_nli1,Naive RAG,mistral-small-2603,Content Retrieval Complex,0,1
+A0153,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Change Retrieval (i),1,0
+A0154,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Content Retrieval,1,0
+A0155,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0159,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Version Listing & Inquiry,1,0
+A0160,B_judge0_nli1,Temporal-GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,0,1
+A0161,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Content Retrieval Complex,1,0
+A0162,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Content Retrieval Complex,1,0
+A0163,B_judge0_nli1,GraphRAG,gpt-5.4-mini,Content Retrieval Complex,0,1
+A0167,A_judge1_nli0,VersionRAG,mistral-small-2603,Version Listing & Inquiry,1,0
+A0168,B_judge0_nli1,Temporal-GraphRAG,qwen3-32b,Change Retrieval (i),0,1
+A0169,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-nano,Content Retrieval,1,0
+A0170,A_judge1_nli0,GraphRAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+A0172,A_judge1_nli0,VersionRAG,mistral-small-2603,Change Retrieval (i),1,0
+A0174,A_judge1_nli0,VersionRAG,mistral-small-2603,Change Retrieval (e),1,0
+A0175,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0176,A_judge1_nli0,GraphRAG,mistral-small-2603,Change Retrieval (e),1,0
+A0178,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Change Retrieval (e),1,0
+A0179,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Content Retrieval Complex,1,0
+A0182,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Content Retrieval,1,0
+A0184,A_judge1_nli0,VersionRAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+A0185,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0187,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+A0188,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Content Retrieval,1,0
+A0190,B_judge0_nli1,GraphRAG,mistral-small-2603,Content Retrieval Complex,0,1
+A0191,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Change Retrieval (i),1,0
+A0193,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Change Retrieval (i),1,0
+A0194,A_judge1_nli0,VersionRAG,mistral-small-2603,Version Listing & Inquiry,1,0
+A0195,B_judge0_nli1,Temporal-GraphRAG,qwen3-32b,Version-Specific Content Retrieval,0,1
+A0196,A_judge1_nli0,VersionRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0197,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Version-Specific Content Retrieval,0,1
+A0198,B_judge0_nli1,Naive RAG,qwen3-32b,Content Retrieval Complex,0,1
+A0200,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Change Retrieval (i),1,0
+A0201,B_judge0_nli1,GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0202,A_judge1_nli0,Naive RAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+A0203,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+A0204,A_judge1_nli0,GraphRAG,gpt-5.4-mini,Change Retrieval (e),1,0
+A0205,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Change Retrieval (e),1,0
+A0206,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval,1,0
+A0207,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Version Listing & Inquiry,1,0
+A0208,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval Complex,1,0
+A0209,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Version Listing & Inquiry,1,0
+A0211,A_judge1_nli0,GraphRAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0213,B_judge0_nli1,GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0214,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+A0216,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Version Listing & Inquiry,1,0
+A0217,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0219,B_judge0_nli1,Metadata-Filtered RAG,mistral-small-2603,Change Retrieval (e),0,1
+A0220,A_judge1_nli0,GraphRAG,gpt-5.4-nano,Content Retrieval,1,0
+A0221,B_judge0_nli1,GraphRAG,gpt-5.4-nano,Change Retrieval (e),0,1
+A0222,B_judge0_nli1,GraphRAG,mistral-small-2603,Content Retrieval Complex,0,1
+A0223,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval Complex,1,0
+A0224,A_judge1_nli0,VersionRAG,qwen3-32b,Change Retrieval (i),1,0
+A0226,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0227,A_judge1_nli0,Naive RAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0229,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Version Listing & Inquiry,1,0
+A0231,A_judge1_nli0,VersionRAG,qwen3-32b,Change Retrieval (e),1,0
+A0233,A_judge1_nli0,Naive RAG,gpt-5.4-mini,Change Retrieval (e),1,0
+A0234,B_judge0_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval,0,1
+A0236,B_judge0_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval,0,1
+A0237,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval Complex,1,0
+A0241,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Version Listing & Inquiry,1,0
+A0243,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Version Listing & Inquiry,1,0
+A0244,B_judge0_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval,0,1
+A0246,B_judge0_nli1,VersionRAG,qwen3-32b,Content Retrieval Complex,0,1
+A0247,A_judge1_nli0,Naive RAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0248,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version Listing & Inquiry,1,0
+A0250,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Content Retrieval,1,0
+A0251,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (i),1,0
+A0252,B_judge0_nli1,VersionRAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0253,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval Complex,1,0
+A0258,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Change Retrieval (e),1,0
+A0259,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0260,A_judge1_nli0,VersionRAG,mistral-small-2603,Change Retrieval (i),1,0
+A0261,A_judge1_nli0,VersionRAG,qwen3-32b,Change Retrieval (i),1,0
+A0267,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0269,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0271,B_judge0_nli1,Naive RAG,gpt-5.4-mini,Version-Specific Content Retrieval,0,1
+A0272,B_judge0_nli1,Metadata-Filtered RAG,qwen3-32b,Change Retrieval (i),0,1
+A0273,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Version Listing & Inquiry,1,0
+A0274,A_judge1_nli0,Naive RAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+A0275,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0276,B_judge0_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval Complex,0,1
+A0277,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Change Retrieval (i),0,1
+A0279,B_judge0_nli1,Naive RAG,qwen3-32b,Content Retrieval Complex,0,1
+A0280,A_judge1_nli0,Naive RAG,qwen3-32b,Content Retrieval,1,0
+A0281,B_judge0_nli1,Naive RAG,gpt-5.4-mini,Version-Specific Content Retrieval,0,1
+A0282,A_judge1_nli0,VersionRAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+A0283,A_judge1_nli0,VersionRAG,qwen3-32b,Change Retrieval (i),1,0
+A0284,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0286,B_judge0_nli1,Temporal-GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0288,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Change Retrieval (i),1,0
+A0289,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0291,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0294,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Change Retrieval (i),1,0
+A0296,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval,1,0
+A0297,B_judge0_nli1,Temporal-GraphRAG,mistral-small-2603,Change Retrieval (i),0,1
+A0304,B_judge0_nli1,Naive RAG,qwen3-32b,Content Retrieval Complex,0,1
+A0306,A_judge1_nli0,VersionRAG,qwen3-32b,Content Retrieval,1,0
+A0307,B_judge0_nli1,Naive RAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0312,A_judge1_nli0,Naive RAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0313,A_judge1_nli0,Naive RAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+A0314,B_judge0_nli1,Naive RAG,mistral-small-2603,Content Retrieval Complex,0,1
+A0315,B_judge0_nli1,GraphRAG,gpt-5.4-mini,Content Retrieval Complex,0,1
+A0316,B_judge0_nli1,Temporal-GraphRAG,qwen3-32b,Version-Specific Content Retrieval,0,1
+A0317,A_judge1_nli0,VersionRAG,mistral-small-2603,Change Retrieval (i),1,0
+A0318,B_judge0_nli1,GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,0,1
+A0319,A_judge1_nli0,VersionRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0320,B_judge0_nli1,Naive RAG,qwen3-32b,Content Retrieval Complex,0,1
+A0321,B_judge0_nli1,Metadata-Filtered RAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0322,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Content Retrieval Complex,1,0
+A0323,A_judge1_nli0,GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0324,B_judge0_nli1,Naive RAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0327,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Change Retrieval (e),1,0
+A0329,B_judge0_nli1,GraphRAG,gpt-5.4-mini,Content Retrieval,0,1
+A0330,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version Listing & Inquiry,1,0
+A0331,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Content Retrieval Complex,1,0
+A0332,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Change Retrieval (e),1,0
+A0333,A_judge1_nli0,Naive RAG,qwen3-32b,Content Retrieval Complex,1,0
+A0334,B_judge0_nli1,Naive RAG,qwen3-32b,Change Retrieval (i),0,1
+A0335,B_judge0_nli1,GraphRAG,gpt-5.4-nano,Content Retrieval Complex,0,1
+A0336,B_judge0_nli1,Naive RAG,qwen3-32b,Content Retrieval Complex,0,1
+A0338,B_judge0_nli1,Temporal-GraphRAG,gpt-5.4-nano,Change Retrieval (i),0,1
+A0339,B_judge0_nli1,GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,0,1
+A0340,A_judge1_nli0,VersionRAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0342,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0343,B_judge0_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval Complex,0,1
+A0345,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Change Retrieval (e),1,0
+A0347,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Change Retrieval (i),1,0
+A0348,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Content Retrieval Complex,1,0
+A0350,A_judge1_nli0,GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0352,A_judge1_nli0,GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+A0354,A_judge1_nli0,GraphRAG,gpt-5.4-mini,Content Retrieval,1,0
+A0356,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Version Listing & Inquiry,1,0
+A0359,B_judge0_nli1,Temporal-GraphRAG,mistral-small-2603,Content Retrieval,0,1
+A0361,B_judge0_nli1,GraphRAG,gpt-5.4-mini,Content Retrieval Complex,0,1
+A0365,A_judge1_nli0,Metadata-Filtered RAG,qwen3-32b,Content Retrieval,1,0
+A0366,B_judge0_nli1,GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,0,1
+A0367,B_judge0_nli1,Naive RAG,gpt-5.4-nano,Version-Specific Content Retrieval,0,1
+A0369,A_judge1_nli0,VersionRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+A0371,A_judge1_nli0,Metadata-Filtered RAG,mistral-small-2603,Content Retrieval Complex,1,0
+A0373,A_judge1_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Change Retrieval (e),1,0
+A0374,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+N0001,C_judge1_nli1,VersionRAG,mistral-small-2603,Content Retrieval,1,1
+N0002,C_judge1_nli1,VersionRAG,gpt-5.4-nano,Content Retrieval Complex,1,1
+N0003,D_judge0_nli0,Temporal-GraphRAG,qwen3-32b,Change Retrieval (i),0,0
+N0004,D_judge0_nli0,Naive RAG,qwen3-32b,Change Retrieval (i),0,0
+N0005,D_judge0_nli0,VersionRAG,mistral-small-2603,Change Retrieval (e),0,0
+N0006,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+N0007,C_judge1_nli1,VersionRAG,gpt-5.4-nano,Content Retrieval Complex,1,1
+N0008,D_judge0_nli0,GraphRAG,qwen3-32b,Change Retrieval (e),0,0
+N0009,C_judge1_nli1,Naive RAG,qwen3-32b,Version-Specific Content Retrieval,1,1
+N0010,C_judge1_nli1,Temporal-GraphRAG,mistral-small-2603,Content Retrieval,1,1
+N0011,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-nano,Version Listing & Inquiry,1,1
+N0012,C_judge1_nli1,Metadata-Filtered RAG,qwen3-32b,Version Listing & Inquiry,1,1
+N0013,C_judge1_nli1,VersionRAG,gpt-5.4-nano,Change Retrieval (i),1,1
+N0014,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-mini,Content Retrieval,1,1
+N0015,A_judge1_nli0,Naive RAG,gpt-5.4-nano,Change Retrieval (i),1,0
+N0016,A_judge1_nli0,GraphRAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+N0017,C_judge1_nli1,VersionRAG,gpt-5.4-nano,Content Retrieval,1,1
+N0018,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+N0019,D_judge0_nli0,Temporal-GraphRAG,mistral-small-2603,Change Retrieval (e),0,0
+N0020,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Content Retrieval,1,0
+N0021,A_judge1_nli0,GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+N0022,C_judge1_nli1,VersionRAG,mistral-small-2603,Version Listing & Inquiry,1,1
+N0023,D_judge0_nli0,Naive RAG,mistral-small-2603,Version Listing & Inquiry,0,0
+N0024,C_judge1_nli1,VersionRAG,qwen3-32b,Change Retrieval (e),1,1
+N0025,C_judge1_nli1,Naive RAG,mistral-small-2603,Content Retrieval,1,1
+N0026,D_judge0_nli0,GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,0,0
+N0027,D_judge0_nli0,GraphRAG,qwen3-32b,Change Retrieval (i),0,0
+N0028,C_judge1_nli1,Naive RAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,1
+N0029,D_judge0_nli0,Naive RAG,gpt-5.4-nano,Version Listing & Inquiry,0,0
+N0030,D_judge0_nli0,Temporal-GraphRAG,qwen3-32b,Version-Specific Content Retrieval,0,0
+N0031,D_judge0_nli0,Naive RAG,qwen3-32b,Change Retrieval (e),0,0
+N0032,C_judge1_nli1,GraphRAG,mistral-small-2603,Content Retrieval,1,1
+N0033,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+N0034,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+N0035,C_judge1_nli1,Metadata-Filtered RAG,qwen3-32b,Content Retrieval,1,1
+N0036,D_judge0_nli0,GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,0,0
+N0037,D_judge0_nli0,Naive RAG,gpt-5.4-mini,Change Retrieval (i),0,0
+N0038,D_judge0_nli0,Temporal-GraphRAG,qwen3-32b,Change Retrieval (i),0,0
+N0039,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-mini,Content Retrieval Complex,1,1
+N0040,C_judge1_nli1,Metadata-Filtered RAG,qwen3-32b,Change Retrieval (i),1,1
+N0041,D_judge0_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Change Retrieval (e),0,0
+N0042,D_judge0_nli0,GraphRAG,mistral-small-2603,Version Listing & Inquiry,0,0
+N0043,C_judge1_nli1,Metadata-Filtered RAG,qwen3-32b,Change Retrieval (i),1,1
+N0044,D_judge0_nli0,GraphRAG,mistral-small-2603,Version Listing & Inquiry,0,0
+N0045,C_judge1_nli1,Temporal-GraphRAG,gpt-5.4-nano,Content Retrieval Complex,1,1
+N0046,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval Complex,1,0
+N0047,D_judge0_nli0,GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,0,0
+N0048,C_judge1_nli1,VersionRAG,gpt-5.4-mini,Content Retrieval,1,1
+N0049,A_judge1_nli0,Naive RAG,qwen3-32b,Version-Specific Content Retrieval,1,0
+N0050,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval Complex,1,0
+N0051,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-nano,Content Retrieval,1,1
+N0052,D_judge0_nli0,Temporal-GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,0,0
+N0053,C_judge1_nli1,Temporal-GraphRAG,gpt-5.4-nano,Content Retrieval Complex,1,1
+N0054,C_judge1_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval Complex,1,1
+N0055,A_judge1_nli0,GraphRAG,gpt-5.4-nano,Content Retrieval,1,0
+N0056,D_judge0_nli0,Naive RAG,gpt-5.4-nano,Version Listing & Inquiry,0,0
+N0057,D_judge0_nli0,Metadata-Filtered RAG,gpt-5.4-nano,Version-Specific Content Retrieval,0,0
+N0058,A_judge1_nli0,Naive RAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+N0059,C_judge1_nli1,VersionRAG,gpt-5.4-nano,Change Retrieval (i),1,1
+N0060,D_judge0_nli0,GraphRAG,gpt-5.4-nano,Change Retrieval (e),0,0
+N0061,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+N0062,A_judge1_nli0,GraphRAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,0
+N0063,C_judge1_nli1,VersionRAG,gpt-5.4-mini,Content Retrieval Complex,1,1
+N0064,C_judge1_nli1,Naive RAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,1
+N0065,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (e),1,0
+N0066,C_judge1_nli1,Naive RAG,gpt-5.4-mini,Change Retrieval (i),1,1
+N0067,D_judge0_nli0,Naive RAG,gpt-5.4-mini,Version Listing & Inquiry,0,0
+N0068,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-mini,Version-Specific Content Retrieval,1,1
+N0069,D_judge0_nli0,GraphRAG,qwen3-32b,Version-Specific Content Retrieval,0,0
+N0070,A_judge1_nli0,GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+N0071,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Version Listing & Inquiry,1,0
+N0072,D_judge0_nli0,Temporal-GraphRAG,qwen3-32b,Version-Specific Content Retrieval,0,0
+N0073,C_judge1_nli1,Temporal-GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,1
+N0074,D_judge0_nli0,Temporal-GraphRAG,qwen3-32b,Version Listing & Inquiry,0,0
+N0075,D_judge0_nli0,Naive RAG,qwen3-32b,Version Listing & Inquiry,0,0
+N0076,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (i),1,0
+N0077,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-mini,Change Retrieval (e),1,1
+N0078,C_judge1_nli1,Naive RAG,gpt-5.4-nano,Content Retrieval,1,1
+N0079,C_judge1_nli1,Temporal-GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,1
+N0080,C_judge1_nli1,VersionRAG,gpt-5.4-nano,Change Retrieval (e),1,1
+N0081,C_judge1_nli1,VersionRAG,mistral-small-2603,Content Retrieval Complex,1,1
+N0082,A_judge1_nli0,Temporal-GraphRAG,mistral-small-2603,Content Retrieval,1,0
+N0083,C_judge1_nli1,GraphRAG,gpt-5.4-mini,Change Retrieval (i),1,1
+N0084,A_judge1_nli0,GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+N0085,A_judge1_nli0,Naive RAG,mistral-small-2603,Content Retrieval Complex,1,0
+N0086,C_judge1_nli1,VersionRAG,gpt-5.4-nano,Change Retrieval (i),1,1
+N0087,D_judge0_nli0,Naive RAG,mistral-small-2603,Change Retrieval (i),0,0
+N0088,D_judge0_nli0,Temporal-GraphRAG,gpt-5.4-nano,Version Listing & Inquiry,0,0
+N0089,C_judge1_nli1,Temporal-GraphRAG,gpt-5.4-nano,Content Retrieval,1,1
+N0090,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Content Retrieval Complex,1,0
+N0091,C_judge1_nli1,VersionRAG,mistral-small-2603,Content Retrieval Complex,1,1
+N0092,C_judge1_nli1,VersionRAG,gpt-5.4-nano,Change Retrieval (e),1,1
+N0093,C_judge1_nli1,Metadata-Filtered RAG,mistral-small-2603,Version-Specific Content Retrieval,1,1
+N0094,D_judge0_nli0,Temporal-GraphRAG,qwen3-32b,Change Retrieval (i),0,0
+N0095,C_judge1_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval,1,1
+N0096,C_judge1_nli1,VersionRAG,qwen3-32b,Change Retrieval (i),1,1
+N0097,D_judge0_nli0,GraphRAG,qwen3-32b,Change Retrieval (i),0,0
+N0098,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,1
+N0099,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (e),1,0
+N0100,D_judge0_nli0,Metadata-Filtered RAG,gpt-5.4-mini,Change Retrieval (i),0,0
+N0101,A_judge1_nli0,GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+N0102,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (e),1,0
+N0103,A_judge1_nli0,GraphRAG,mistral-small-2603,Version-Specific Content Retrieval,1,0
+N0104,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-nano,Content Retrieval,1,1
+N0105,A_judge1_nli0,GraphRAG,gpt-5.4-nano,Version-Specific Content Retrieval,1,0
+N0106,D_judge0_nli0,Temporal-GraphRAG,gpt-5.4-mini,Version Listing & Inquiry,0,0
+N0107,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-mini,Content Retrieval,1,1
+N0108,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Content Retrieval,1,0
+N0109,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-nano,Content Retrieval Complex,1,0
+N0110,C_judge1_nli1,Metadata-Filtered RAG,mistral-small-2603,Content Retrieval Complex,1,1
+N0111,C_judge1_nli1,VersionRAG,qwen3-32b,Version Listing & Inquiry,1,1
+N0112,C_judge1_nli1,VersionRAG,mistral-small-2603,Version Listing & Inquiry,1,1
+N0113,C_judge1_nli1,Temporal-GraphRAG,gpt-5.4-mini,Content Retrieval,1,1
+N0114,D_judge0_nli0,Temporal-GraphRAG,qwen3-32b,Version-Specific Content Retrieval,0,0
+N0115,C_judge1_nli1,Metadata-Filtered RAG,qwen3-32b,Content Retrieval,1,1
+N0116,D_judge0_nli0,GraphRAG,mistral-small-2603,Change Retrieval (e),0,0
+N0117,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Content Retrieval,1,0
+N0118,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-mini,Change Retrieval (e),1,0
+N0119,D_judge0_nli0,GraphRAG,gpt-5.4-nano,Content Retrieval,0,0
+N0120,C_judge1_nli1,GraphRAG,gpt-5.4-mini,Content Retrieval Complex,1,1
+N0121,C_judge1_nli1,Metadata-Filtered RAG,mistral-small-2603,Change Retrieval (e),1,1
+N0122,A_judge1_nli0,Naive RAG,gpt-5.4-mini,Change Retrieval (e),1,0
+N0123,C_judge1_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval,1,1
+N0124,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-mini,Content Retrieval Complex,1,1
+N0125,C_judge1_nli1,Temporal-GraphRAG,mistral-small-2603,Content Retrieval,1,1
+N0126,C_judge1_nli1,Naive RAG,gpt-5.4-mini,Content Retrieval,1,1
+N0127,C_judge1_nli1,Metadata-Filtered RAG,mistral-small-2603,Change Retrieval (e),1,1
+N0128,C_judge1_nli1,VersionRAG,mistral-small-2603,Content Retrieval Complex,1,1
+N0129,A_judge1_nli0,Naive RAG,qwen3-32b,Change Retrieval (i),1,0
+N0130,A_judge1_nli0,Temporal-GraphRAG,qwen3-32b,Content Retrieval Complex,1,0
+N0131,C_judge1_nli1,Temporal-GraphRAG,gpt-5.4-nano,Content Retrieval Complex,1,1
+N0132,D_judge0_nli0,Naive RAG,gpt-5.4-nano,Version-Specific Content Retrieval,0,0
+N0133,D_judge0_nli0,GraphRAG,gpt-5.4-mini,Content Retrieval,0,0
+N0134,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-nano,Version Listing & Inquiry,1,0
+N0135,C_judge1_nli1,Metadata-Filtered RAG,gpt-5.4-mini,Version Listing & Inquiry,1,1
+N0136,D_judge0_nli0,GraphRAG,gpt-5.4-nano,Content Retrieval,0,0
+N0137,A_judge1_nli0,Temporal-GraphRAG,gpt-5.4-nano,Content Retrieval,1,0
+N0138,D_judge0_nli0,GraphRAG,gpt-5.4-mini,Content Retrieval Complex,0,0
+N0139,D_judge0_nli0,VersionRAG,qwen3-32b,Version-Specific Content Retrieval,0,0
+N0140,C_judge1_nli1,Naive RAG,qwen3-32b,Content Retrieval,1,1
+N0141,D_judge0_nli0,GraphRAG,mistral-small-2603,Content Retrieval Complex,0,0
+N0142,C_judge1_nli1,Naive RAG,qwen3-32b,Content Retrieval,1,1
