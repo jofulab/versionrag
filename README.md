@@ -22,10 +22,21 @@ docker compose up -d     # Neo4j + Qdrant
 
 ## Use
 
+The system runs as an HTTP service.
+
 ```bash
-uv run versionrag index --corpus path/to/corpus
-uv run versionrag query "What changed in Docker Compose 2.38.1?"
+make start   # Neo4j + Qdrant via docker compose, then the API on http://localhost:8000
+
+# get a corpus, e.g. VersionQA-Software from Hugging Face
+uvx --from huggingface_hub hf download VersionRAG/VersionQA-Software --repo-type dataset --local-dir data/software
+
+curl -X POST localhost:8000/indexing/run -H 'Content-Type: application/json' \
+     -d '{"data_dir": "data/software/corpus", "recursive": true, "reset": true}'
+curl -X POST localhost:8000/query -H 'Content-Type: application/json' \
+     -d '{"question": "What changed in Docker Compose 2.38.1?"}'
 ```
+
+Interactive API documentation is at <http://localhost:8000/docs>.
 
 ## How it works
 
