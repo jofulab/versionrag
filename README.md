@@ -5,10 +5,19 @@
   </picture>
 </p>
 
-Version-aware retrieval-augmented generation for evolving documents.
+<p align="center">Version-aware retrieval-augmented generation for evolving documents</p>
 
-Reference implementation for *VersionRAG: Version-Aware Retrieval-Augmented Generation for
-Evolving Documents* (Findings of EACL 2027).
+<p align="center">
+  <a href="https://arxiv.org/abs/2510.08109">Paper</a> ·
+  <a href="https://huggingface.co/VersionRAG">Data</a> ·
+  <a href="#citation">Citation</a>
+</p>
+
+This repository contains the reference implementation for our paper:
+
+> **VersionRAG: Version-Aware Retrieval-Augmented Generation for Evolving Documents**<br>
+> Linus Stuhlmann, Kajaluxan Mathitharan, Daniel Huwiler, Kurt Stockinger, Jonathan Fürst<br>
+> *Findings of the Association for Computational Linguistics: EACL 2027*
 
 ## Install
 
@@ -68,6 +77,8 @@ src/versionrag/
 
 ## Citation
 
+If this repository is useful for your work, we would appreciate it if you cited our paper:
+
 ```bibtex
 @inproceedings{stuhlmann2027versionrag,
   title     = {{VersionRAG}: Version-Aware Retrieval-Augmented Generation for Evolving Documents},
@@ -77,3 +88,12 @@ src/versionrag/
   year      = {2027}
 }
 ```
+
+## License
+
+The code is released under the MIT License (see [LICENSE](LICENSE)). The datasets on Hugging Face
+carry their own licences, listed in each dataset card.
+
+## Contact
+
+Jonathan Fürst, jonathan.fuerst@zhaw.ch
